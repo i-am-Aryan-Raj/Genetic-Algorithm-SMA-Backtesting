@@ -65,7 +65,7 @@ For detailed performance analysis, refer to the results and plots in the `result
 
 ### References
 
-- **Jiarui Ni and Chengqi Zhang**: ["An Efficient Implementation of the Backtesting of Trading Strategies"]([https://link_to_paper](https://www.researchgate.net/publication/220945302_An_Efficient_Implementation_of_the_Backtesting_of_Trading_Strategies)), which inspired the approach to backtesting and optimization.
+- **Jiarui Ni and Chengqi Zhang**: ["An Efficient Implementation of the Backtesting of Trading Strategies"](https://www.researchgate.net/publication/220945302_An_Efficient_Implementation_of_the_Backtesting_of_Trading_Strategies), which inspired the approach to backtesting and optimization.
 
 ### License
 
